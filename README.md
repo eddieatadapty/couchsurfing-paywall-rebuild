@@ -8,9 +8,13 @@ paywall on close.
 server required. Two tabs: the clickable prototype with a per-screen rationale
 panel, and a before/after sequence with the ranked change table.
 
-> Internal sales collateral. Contains Couchsurfing brand assets (hero photograph,
-> app icon) and third-party press wordmarks, used to demonstrate a rebuild in
-> their own design language. Keep this repository private.
+> **Unaffiliated concept work.** Couchsurfing is a trademark of CouchSurfing
+> International, Inc. This prototype is not produced or endorsed by, nor affiliated
+> with, Couchsurfing or any publication shown. It reproduces brand assets (hero
+> photograph, app icon) and press wordmarks from publicly available material for the
+> sole purpose of demonstrating a redesign in the app's own visual language. All
+> trademarks and images remain the property of their respective owners. Removal
+> requests: open an issue.
 
 ---
 
