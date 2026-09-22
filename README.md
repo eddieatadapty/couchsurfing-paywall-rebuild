@@ -5,8 +5,13 @@ membership paywall, the paywall rebuilt in its own design system, and an offer
 paywall on close.
 
 **Open `index.html` in any browser.** One self-contained file — no build step, no
-server required. Two tabs: the clickable prototype with a per-screen rationale
-panel, and a before/after sequence with the ranked change table.
+server required. Three tabs:
+
+1. **Prototype** — the clickable flow, with a per-screen rationale panel.
+2. **Before / After** — the two sequences side by side, tagged, plus the ranked change table.
+3. **How to build one** — the method itself: how to choose a flow skeleton, the eight
+   contradiction rules, the personalization loop, impact tiers, and where trials help
+   versus hurt. Each section is annotated with how it decided this particular build.
 
 > **Unaffiliated concept work.** Couchsurfing is a trademark of CouchSurfing
 > International, Inc. This prototype is not produced or endorsed by, nor affiliated
